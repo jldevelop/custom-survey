@@ -1,20 +1,15 @@
 {
-  "name": "custom-survey",
-  "version": "1.0.64",
-  "description": "",
+  "name": "@jldevelop/custom-survey-faze",
+  "version": "1.0.0",
+  "description": "frontend js part for displaying custom survey - needs to be linked with propper backendd database. Won't work by itself",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/jldevelop/custom-survey.git"
+    "url": "git+https://github.com/jldevelop/custom-survey.git"
   },
-  "keywords": [
-    "custom",
-    "survey",
-    "poll"
-  ],
   "author": "Josip Lukacevic",
   "license": "MIT",
   "bugs": {
