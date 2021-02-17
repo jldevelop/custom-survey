@@ -1,8 +1,9 @@
-const host = 'https://api.fazeclan.com';
+let host;
 
-function initSurvey() {
+function initSurvey(dbHost = '') {
   if(getCookie('skipSurvey')) return;
 
+  host = dbHost;
   setSurveyData();
   createSurveyDOM();
 
