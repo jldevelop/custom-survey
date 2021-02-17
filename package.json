@@ -1,6 +1,6 @@
 {
   "name": "@jldevelop/custom-survey-faze",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "frontend js part for displaying custom survey - needs to be linked with propper backendd database. Won't work by itself",
   "main": "index.js",
   "scripts": {
