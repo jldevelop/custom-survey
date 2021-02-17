@@ -1,0 +1,24 @@
+{
+  "name": "custom-survey",
+  "version": "1.0.62",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/jldevelop/custom-survey.git"
+  },
+  "keywords": [
+    "custom",
+    "survey",
+    "poll"
+  ],
+  "author": "Josip Lukacevic",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jldevelop/custom-survey/issues"
+  },
+  "homepage": "https://github.com/jldevelop/custom-survey#readme"
+}
